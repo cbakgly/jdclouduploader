@@ -1,6 +1,9 @@
+# A helper for uploading files to jing dong cloud.
+
 ## Usage
-```
-$ java -jar jdctool.jar
+
+```bash
+java -jar jdctool.jar
 
 usage: jdctool [options]
  -akey,--accesskey <arg>   Access key for jcloud.
